@@ -1,0 +1,12 @@
+servers:
+- url: http://jenkins.jx.35.234.11.152.nip.io
+  users:
+  - username: admin
+    apitoken: a6eafe10ee4ca817339db6cf729d2612
+    bearertoken: ""
+    password: sentrygrove
+  name: jenkins.jx.35.234.11.152.nip.io
+  kind: ""
+  currentuser: ""
+defaultusername: ""
+currentserver: http://jenkins.jx.35.234.11.152.nip.io

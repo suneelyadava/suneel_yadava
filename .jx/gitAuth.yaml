@@ -1,0 +1,13 @@
+servers:
+- url: https://github.com
+  users:
+  - username: suneelyadava
+    apitoken: d2de3f4c8f0e95616e5780174d9bf2034c514528
+    bearertoken: ""
+  name: GitHub
+  kind: github
+  currentuser: suneelyadava
+defaultusername: suneelyadava
+pipelineusername: suneelyadava
+currentserver: https://github.com
+pipelineserver: https://github.com
